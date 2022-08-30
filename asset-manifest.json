@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/excel_elecciones/static/css/main.d0698428.css",
+    "main.js": "/excel_elecciones/static/js/main.ebcba157.js",
+    "static/js/787.cda612ba.chunk.js": "/excel_elecciones/static/js/787.cda612ba.chunk.js",
+    "index.html": "/excel_elecciones/index.html",
+    "main.d0698428.css.map": "/excel_elecciones/static/css/main.d0698428.css.map",
+    "main.ebcba157.js.map": "/excel_elecciones/static/js/main.ebcba157.js.map",
+    "787.cda612ba.chunk.js.map": "/excel_elecciones/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0698428.css",
+    "static/js/main.ebcba157.js"
+  ]
+}
